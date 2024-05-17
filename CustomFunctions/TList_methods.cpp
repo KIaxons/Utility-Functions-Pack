@@ -1,4 +1,4 @@
-#define SET_EXPR(lhs, expr)                   *(uint32_t*)&lhs = (uint32_t)(expr);
+﻿#define SET_EXPR(lhs, expr)                   *(uint32_t*)&lhs = (uint32_t)(expr);
 #define SET_VAR(lhs, rhs)                     *(int8_t**)&lhs = (int8_t*)rhs;
 #define SET_VAR_WITH_OFFSET(lhs, rhs, offset) *(int8_t**)&lhs = (int8_t*)rhs + (offset);
 
