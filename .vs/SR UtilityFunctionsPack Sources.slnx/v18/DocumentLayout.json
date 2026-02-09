@@ -1,12 +1,122 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Work\\SR UtilityFunctionsPack Sources\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Work\\SR UtilityFunctionsPack Sources\\CustomFunctions\\dllmain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CustomFunctions\\dllmain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Work\\SR UtilityFunctionsPack Sources\\CustomFunctions\\wrapped-classes\\ClassTools.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CustomFunctions\\wrapped-classes\\ClassTools.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Work\\SR UtilityFunctionsPack Sources\\CustomFunctions\\dllmain.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CustomFunctions\\dllmain.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Work\\SR UtilityFunctionsPack Sources\\CustomFunctions\\framework.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CustomFunctions\\framework.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Work\\SR UtilityFunctionsPack Sources\\CustomFunctions\\pch.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CustomFunctions\\pch.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Work\\SR UtilityFunctionsPack Sources\\CustomFunctions\\pch.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CustomFunctions\\pch.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClassTools.cpp",
+              "DocumentMoniker": "D:\\Work\\SR UtilityFunctionsPack Sources\\CustomFunctions\\wrapped-classes\\ClassTools.cpp",
+              "RelativeDocumentMoniker": "CustomFunctions\\wrapped-classes\\ClassTools.cpp",
+              "ToolTip": "D:\\Work\\SR UtilityFunctionsPack Sources\\CustomFunctions\\wrapped-classes\\ClassTools.cpp",
+              "RelativeToolTip": "CustomFunctions\\wrapped-classes\\ClassTools.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-01T11:42:38.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "framework.h",
+              "DocumentMoniker": "D:\\Work\\SR UtilityFunctionsPack Sources\\CustomFunctions\\framework.h",
+              "RelativeDocumentMoniker": "CustomFunctions\\framework.h",
+              "ToolTip": "D:\\Work\\SR UtilityFunctionsPack Sources\\CustomFunctions\\framework.h",
+              "RelativeToolTip": "CustomFunctions\\framework.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-02-01T11:42:32.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "pch.cpp",
+              "DocumentMoniker": "D:\\Work\\SR UtilityFunctionsPack Sources\\CustomFunctions\\pch.cpp",
+              "RelativeDocumentMoniker": "CustomFunctions\\pch.cpp",
+              "ToolTip": "D:\\Work\\SR UtilityFunctionsPack Sources\\CustomFunctions\\pch.cpp",
+              "RelativeToolTip": "CustomFunctions\\pch.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-01T11:42:31.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "pch.h",
+              "DocumentMoniker": "D:\\Work\\SR UtilityFunctionsPack Sources\\CustomFunctions\\pch.h",
+              "RelativeDocumentMoniker": "CustomFunctions\\pch.h",
+              "ToolTip": "D:\\Work\\SR UtilityFunctionsPack Sources\\CustomFunctions\\pch.h",
+              "RelativeToolTip": "CustomFunctions\\pch.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-02-01T11:42:30.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "dllmain.h",
+              "DocumentMoniker": "D:\\Work\\SR UtilityFunctionsPack Sources\\CustomFunctions\\dllmain.h",
+              "RelativeDocumentMoniker": "CustomFunctions\\dllmain.h",
+              "ToolTip": "D:\\Work\\SR UtilityFunctionsPack Sources\\CustomFunctions\\dllmain.h",
+              "RelativeToolTip": "CustomFunctions\\dllmain.h",
+              "ViewState": "AgIAAI0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-02-01T11:37:14.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "dllmain.cpp",
+              "DocumentMoniker": "D:\\Work\\SR UtilityFunctionsPack Sources\\CustomFunctions\\dllmain.cpp",
+              "RelativeDocumentMoniker": "CustomFunctions\\dllmain.cpp",
+              "ToolTip": "D:\\Work\\SR UtilityFunctionsPack Sources\\CustomFunctions\\dllmain.cpp",
+              "RelativeToolTip": "CustomFunctions\\dllmain.cpp",
+              "ViewState": "AgIAAKEAAAAAAAAAAAAkwBIBAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-01T11:20:24.633Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
